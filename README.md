@@ -6,13 +6,13 @@ They currently have a matching algorithm in places that matches advisee's to adv
 
 So the task they had for our team was three fold:
 
-Identify what qualities made for the best matches between advisors and advisees
-Create a dashboard that gave an overview of the information in their database
-Create a new matching algorithm that meets several criteria 
-Waitlisted and VIP users are prioritized
-Advisee's are not matched with advisors from prior matches
-Advisee's are not matched with advisors from the same company from prior matches
-Advisee's are matched by location, then region
-Session topics are assigned such that previous session topics for advisees are not repeated and preferred topic session topic of both advisee's and advisor's are considered
+- Identify what qualities made for the best matches between advisors and advisees
+- Create a dashboard that gave an overview of the information in their database
+- Create a new matching algorithm that meets several criteria 
+- Waitlisted and VIP users are prioritized
+- Advisee's are not matched with advisors from prior matches
+- Advisee's are not matched with advisors from the same company from prior matches
+- Advisee's are matched by location, then region
+- Session topics are assigned such that previous session topics for advisees are not repeated and preferred topic session topic of both advisee's and advisor's are considered
 
 Link to blog post - https://www.williamkye.com/work/2018/4/4/matching-mentors-to-mentees-empowering-young-women-to-be-leaders-in-tech
