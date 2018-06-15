@@ -8,7 +8,7 @@ So the task they had for our team was three fold:
 
 1. Identify what qualities made for the best matches between advisors and advisees
 2. Create a dashboard that gave an overview of the information in their database
-3. Create a new matching algorithm that meets several criteria 
+3. Create a new matching algorithm that meets several criteria: 
 - Waitlisted and VIP users are prioritized
 - Advisee's are not matched with advisors from prior matches
 - Advisee's are not matched with advisors from the same company from prior matches
